@@ -8,7 +8,7 @@
 <link href="css/styles.css" rel="stylesheet" />
 </head>
 <body>
-	<jsp:include page="header.jsp"></jsp:include>
+	<jsp:include page="nav.jsp"></jsp:include>
 	<div align="center">
 		<form action="loginOk.jsp">
 			아이디:<input type="text" name="id"><br> 비밀번호:<input
